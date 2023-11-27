@@ -1,0 +1,30 @@
+{
+  "name": "telephone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/myx777/telephone.git"
+  },
+  "author": "myx777",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myx777/telephone/issues"
+  },
+  "homepage": "https://github.com/myx777/telephone#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.3",
+    "@babel/preset-env": "^7.23.3",
+    "babel-jest": "^29.7.0",
+    "core-js": "^3.33.3",
+    "eslint": "^8.54.0",
+    "jest": "^29.7.0",
+    "minimatch": "^3.0.2"
+  }
+}
